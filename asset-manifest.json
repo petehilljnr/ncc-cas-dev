@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ncc-cas-dev/static/css/main.b10c245a.css",
+    "main.js": "/ncc-cas-dev/static/js/main.caf3ef8f.js",
+    "static/js/483.4cf9c906.chunk.js": "/ncc-cas-dev/static/js/483.4cf9c906.chunk.js",
+    "static/media/stantec.svg": "/ncc-cas-dev/static/media/stantec.d8032f6eec2e08b9db0d8c23a146379f.svg",
+    "index.html": "/ncc-cas-dev/index.html",
+    "main.b10c245a.css.map": "/ncc-cas-dev/static/css/main.b10c245a.css.map",
+    "main.caf3ef8f.js.map": "/ncc-cas-dev/static/js/main.caf3ef8f.js.map",
+    "483.4cf9c906.chunk.js.map": "/ncc-cas-dev/static/js/483.4cf9c906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10c245a.css",
+    "static/js/main.caf3ef8f.js"
+  ]
+}
